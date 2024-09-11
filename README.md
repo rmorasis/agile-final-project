@@ -1,2 +1,2 @@
-# agle-final-project
-Final_Agile_Project
+# agile-final-project
+Final_Agile_Project using Kanban board
